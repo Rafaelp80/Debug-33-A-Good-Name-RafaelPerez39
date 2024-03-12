@@ -1,0 +1,17 @@
+ /* Full credit to code.org for task */
+  
+p, h1{
+  color: #f11e1e;
+}
+body {
+  background-color: #0d2f54;
+}
+h1 {
+  color: #268c78;
+  font-family: courior, monospace;
+}
+img{
+  height: 300px;
+  width: 300px;
+}
+
